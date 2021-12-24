@@ -1,4 +1,4 @@
-// @@include('checkWebpBrowser.js')
+// 
 
 function testWebP(callback) {
   var webP = new Image();
