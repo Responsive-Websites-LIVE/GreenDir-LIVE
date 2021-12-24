@@ -1112,15 +1112,15 @@ body._lock {
 }
 
 .contacts-footer__item_phone {
-  background: url("../../img/icons/forFooter/phone.svg") 0 0 no-repeat;
+  background: url("../img/icons/forFooter/phone.svg") 0 0 no-repeat;
 }
 
 .contacts-footer__item_map {
-  background: url("../../img/icons/forFooter/map-pin.svg") 0 0 no-repeat;
+  background: url("../img/icons/forFooter/map-pin.svg") 0 0 no-repeat;
 }
 
 .contacts-footer__item_email {
-  background: url("../../img/icons/forFooter/send.svg") 0 0 no-repeat;
+  background: url("../img/icons/forFooter/send.svg") 0 0 no-repeat;
 }
 
 .social__item:not(:last-child) {
